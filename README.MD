@@ -14,10 +14,10 @@ At first download the program from [releases](https://github.com/HirbodBehnam/fi
 the application, set these values as environment variables:
 
 ```bash
-export APP_ID=1234
-export APP_HASH=abcd
-export BOT_TOKEN=zyxw
+export APP_ID=19667545
+export APP_HASH=fb6ba026c66366508ff020833596e749
+export BOT_TOKEN=5125379963:AAFjld4fDuo_PfCXrTaaGFZ2HenKnd6184E
 ```
 
-Then place the [example config](https://github.com/HirbodBehnam/file2url-go/blob/master/config/config.json) file next to
+Then place the [example config](https://github.com/Onlysam0007/file2url-go.git) file next to
 executable and change its variables if needed. Then run the application.
